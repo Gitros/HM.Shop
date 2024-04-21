@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\p\\HM.Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD0E7DBB-2659-43B6-B888-4595F64083C3}|source\\HM.Shop.Api\\HM.Shop.Api.csproj|c:\\p\\hm.shop\\source\\hm.shop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD0E7DBB-2659-43B6-B888-4595F64083C3}|source\\HM.Shop.Api\\HM.Shop.Api.csproj|solutionrelative:source\\hm.shop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{128FBE4F-6390-4E54-95B5-B97B50CB90E4}|source\\HM.Shop.Services\\HM.Shop.Services.csproj|c:\\p\\hm.shop\\source\\hm.shop.services\\services\\tshirtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{128FBE4F-6390-4E54-95B5-B97B50CB90E4}|source\\HM.Shop.Services\\HM.Shop.Services.csproj|solutionrelative:source\\hm.shop.services\\services\\tshirtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0E7DBB-2659-43B6-B888-4595F64083C3}|source\\HM.Shop.Api\\HM.Shop.Api.csproj|c:\\p\\hm.shop\\source\\hm.shop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0E7DBB-2659-43B6-B888-4595F64083C3}|source\\HM.Shop.Api\\HM.Shop.Api.csproj|solutionrelative:source\\hm.shop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD0E7DBB-2659-43B6-B888-4595F64083C3}|source\\HM.Shop.Api\\HM.Shop.Api.csproj|c:\\p\\hm.shop\\source\\hm.shop.api\\controllers\\tshirtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -95,13 +95,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TShirtService.cs",
               "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Services\\Services\\TShirtService.cs",
               "RelativeDocumentMoniker": "source\\HM.Shop.Services\\Services\\TShirtService.cs",
               "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Services\\Services\\TShirtService.cs",
               "RelativeToolTip": "source\\HM.Shop.Services\\Services\\TShirtService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T13:59:44.923Z",
               "EditorCaption": ""
@@ -195,13 +195,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Api\\Program.cs",
               "RelativeDocumentMoniker": "source\\HM.Shop.Api\\Program.cs",
               "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Api\\Program.cs",
               "RelativeToolTip": "source\\HM.Shop.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T12:43:22.015Z",
               "EditorCaption": ""
