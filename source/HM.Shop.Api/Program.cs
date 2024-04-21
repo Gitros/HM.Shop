@@ -1,9 +1,21 @@
+using HM.Shop.Infrastructure.Sqlite.Db;
+using HM.Shop.Services.Services;
+using HM.Shop.Services.Services.Contracts;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+
+#region HM services
+builder.Services.AddScoped<ITShirtService, TShirtService>();
+#endregion
+
+builder.Services.AddDbContext<HMContext>();
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

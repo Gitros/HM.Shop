@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HM.Shop.Infrastructure.Sqlite.Db\HM.Shop.Infrastructure.Sqlite.Db.csproj" />
+  </ItemGroup>
+
 </Project>

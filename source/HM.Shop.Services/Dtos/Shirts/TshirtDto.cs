@@ -1,6 +1,6 @@
 ﻿namespace HM.Shop.Services.Dtos.Shirts;
 
-public class TshirtDto
+public class TShirtDto
 {
     public Guid Id { get; set; }
     public required string Name { get; set; }

@@ -15,7 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\HM.Shop.Infrastructure.Sqlite.Db\HM.Shop.Infrastructure.Sqlite.Db.csproj" />
+    <ProjectReference Include="..\HM.Shop.Services\HM.Shop.Services.csproj" />
   </ItemGroup>
 
 </Project>
