@@ -47,7 +47,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HM.Shop.Services",
+              "Title": "HM.Shop.Services.csproj",
               "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Services\\HM.Shop.Services.csproj",
               "RelativeDocumentMoniker": "source\\HM.Shop.Services\\HM.Shop.Services.csproj",
               "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Services\\HM.Shop.Services.csproj",
@@ -60,12 +60,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HM.Shop.Infrastructure.Sqlite.Db",
+              "Title": "HM.Shop.Infrastructure.Sqlite.Db.csproj",
               "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj",
               "RelativeDocumentMoniker": "source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj",
               "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj",
               "RelativeToolTip": "source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-21T12:53:27.331Z",
               "EditorCaption": ""
@@ -80,8 +80,7 @@
               "RelativeToolTip": "source\\HM.Shop.Domain\\ClothingParameters\\Size.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:49:33.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T12:49:33.639Z"
             },
             {
               "$type": "Document",
@@ -93,8 +92,7 @@
               "RelativeToolTip": "source\\HM.Shop.Domain\\ClothingParameters\\Color.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:49:16.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T12:49:16.935Z"
             },
             {
               "$type": "Document",
@@ -106,8 +104,7 @@
               "RelativeToolTip": "source\\HM.Shop.Domain\\Skirts\\Skirt.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:47:58.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T12:47:58.347Z"
             },
             {
               "$type": "Document",
@@ -119,8 +116,7 @@
               "RelativeToolTip": "source\\HM.Shop.Domain\\TShirts\\TShirt.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:47:48.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T12:47:48.558Z"
             },
             {
               "$type": "Document",
@@ -132,8 +128,7 @@
               "RelativeToolTip": "source\\HM.Shop.Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:43:22.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T12:43:22.015Z"
             },
             {
               "$type": "Document",
@@ -145,8 +140,7 @@
               "RelativeToolTip": "source\\HM.Shop.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-21T12:43:19.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T12:43:19.168Z"
             }
           ]
         }
