@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\p\\HM.Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F806D75-3AD2-43FB-8769-D396598156EB}|source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj|c:\\p\\hm.shop\\source\\hm.shop.infrastructure.sqlite.db\\hm.shop.infrastructure.sqlite.db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2F806D75-3AD2-43FB-8769-D396598156EB}|source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj|solutionrelative:source\\hm.shop.infrastructure.sqlite.db\\hm.shop.infrastructure.sqlite.db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2F806D75-3AD2-43FB-8769-D396598156EB}|source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj|c:\\p\\hm.shop\\source\\hm.shop.infrastructure.sqlite.db\\hmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F806D75-3AD2-43FB-8769-D396598156EB}|source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj|solutionrelative:source\\hm.shop.infrastructure.sqlite.db\\hmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{128FBE4F-6390-4E54-95B5-B97B50CB90E4}|source\\HM.Shop.Services\\HM.Shop.Services.csproj|c:\\p\\hm.shop\\source\\hm.shop.services\\hm.shop.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{128FBE4F-6390-4E54-95B5-B97B50CB90E4}|source\\HM.Shop.Services\\HM.Shop.Services.csproj|solutionrelative:source\\hm.shop.services\\hm.shop.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|c:\\p\\hm.shop\\source\\hm.shop.domain\\clothingparameters\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|solutionrelative:source\\hm.shop.domain\\clothingparameters\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|c:\\p\\hm.shop\\source\\hm.shop.domain\\clothingparameters\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|solutionrelative:source\\hm.shop.domain\\clothingparameters\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F806D75-3AD2-43FB-8769-D396598156EB}|source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj|c:\\p\\hm.shop\\source\\hm.shop.infrastructure.sqlite.db\\migrations\\hmcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F806D75-3AD2-43FB-8769-D396598156EB}|source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj|solutionrelative:source\\hm.shop.infrastructure.sqlite.db\\migrations\\hmcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|c:\\p\\hm.shop\\source\\hm.shop.domain\\skirts\\skirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|solutionrelative:source\\hm.shop.domain\\skirts\\skirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|c:\\p\\hm.shop\\source\\hm.shop.domain\\tshirts\\tshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|solutionrelative:source\\hm.shop.domain\\tshirts\\tshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|c:\\p\\hm.shop\\source\\hm.shop.domain\\clothingparameters\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|solutionrelative:source\\hm.shop.domain\\clothingparameters\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F806D75-3AD2-43FB-8769-D396598156EB}|source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj|c:\\p\\hm.shop\\source\\hm.shop.infrastructure.sqlite.db\\migrations\\20240421133630_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F806D75-3AD2-43FB-8769-D396598156EB}|source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj|solutionrelative:source\\hm.shop.infrastructure.sqlite.db\\migrations\\20240421133630_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|c:\\p\\hm.shop\\source\\hm.shop.domain\\shirts\\tshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|solutionrelative:source\\hm.shop.domain\\shirts\\tshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|c:\\p\\hm.shop\\source\\hm.shop.domain\\clothingparameters\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A0B3FD1-F29D-4A45-875B-A28935108DE2}|source\\HM.Shop.Domain\\HM.Shop.Domain.csproj|solutionrelative:source\\hm.shop.domain\\clothingparameters\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD0E7DBB-2659-43B6-B888-4595F64083C3}|source\\HM.Shop.Api\\HM.Shop.Api.csproj|c:\\p\\hm.shop\\source\\hm.shop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD0E7DBB-2659-43B6-B888-4595F64083C3}|source\\HM.Shop.Api\\HM.Shop.Api.csproj|solutionrelative:source\\hm.shop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128FBE4F-6390-4E54-95B5-B97B50CB90E4}|source\\HM.Shop.Services\\HM.Shop.Services.csproj|c:\\p\\hm.shop\\source\\hm.shop.services\\dtos\\shirts\\tshirtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128FBE4F-6390-4E54-95B5-B97B50CB90E4}|source\\HM.Shop.Services\\HM.Shop.Services.csproj|solutionrelative:source\\hm.shop.services\\dtos\\shirts\\tshirtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F806D75-3AD2-43FB-8769-D396598156EB}|source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj|c:\\p\\hm.shop\\source\\hm.shop.infrastructure.sqlite.db\\hm.shop.infrastructure.sqlite.db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F806D75-3AD2-43FB-8769-D396598156EB}|source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj|solutionrelative:source\\hm.shop.infrastructure.sqlite.db\\hm.shop.infrastructure.sqlite.db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128FBE4F-6390-4E54-95B5-B97B50CB90E4}|source\\HM.Shop.Services\\HM.Shop.Services.csproj|c:\\p\\hm.shop\\source\\hm.shop.services\\hm.shop.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{128FBE4F-6390-4E54-95B5-B97B50CB90E4}|source\\HM.Shop.Services\\HM.Shop.Services.csproj|solutionrelative:source\\hm.shop.services\\hm.shop.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD0E7DBB-2659-43B6-B888-4595F64083C3}|source\\HM.Shop.Api\\HM.Shop.Api.csproj|c:\\p\\hm.shop\\source\\hm.shop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,97 +58,151 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HMContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Infrastructure.Sqlite.Db\\Migrations\\HMContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "source\\HM.Shop.Infrastructure.Sqlite.Db\\Migrations\\HMContextModelSnapshot.cs",
+              "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Infrastructure.Sqlite.Db\\Migrations\\HMContextModelSnapshot.cs",
+              "RelativeToolTip": "source\\HM.Shop.Infrastructure.Sqlite.Db\\Migrations\\HMContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:40:38.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240421133630_InitialCreate.cs",
+              "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Infrastructure.Sqlite.Db\\Migrations\\20240421133630_InitialCreate.cs",
+              "RelativeDocumentMoniker": "source\\HM.Shop.Infrastructure.Sqlite.Db\\Migrations\\20240421133630_InitialCreate.cs",
+              "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Infrastructure.Sqlite.Db\\Migrations\\20240421133630_InitialCreate.cs",
+              "RelativeToolTip": "source\\HM.Shop.Infrastructure.Sqlite.Db\\Migrations\\20240421133630_InitialCreate.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:38:53.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TshirtDto.cs",
+              "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Services\\Dtos\\Shirts\\TshirtDto.cs",
+              "RelativeDocumentMoniker": "source\\HM.Shop.Services\\Dtos\\Shirts\\TshirtDto.cs",
+              "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Services\\Dtos\\Shirts\\TshirtDto.cs",
+              "RelativeToolTip": "source\\HM.Shop.Services\\Dtos\\Shirts\\TshirtDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:15:24.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HMContext.cs",
+              "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Infrastructure.Sqlite.Db\\HMContext.cs",
+              "RelativeDocumentMoniker": "source\\HM.Shop.Infrastructure.Sqlite.Db\\HMContext.cs",
+              "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Infrastructure.Sqlite.Db\\HMContext.cs",
+              "RelativeToolTip": "source\\HM.Shop.Infrastructure.Sqlite.Db\\HMContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:07:23.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HM.Shop.Services.csproj",
               "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Services\\HM.Shop.Services.csproj",
               "RelativeDocumentMoniker": "source\\HM.Shop.Services\\HM.Shop.Services.csproj",
               "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Services\\HM.Shop.Services.csproj",
               "RelativeToolTip": "source\\HM.Shop.Services\\HM.Shop.Services.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-21T12:53:20.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T12:53:20.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "HM.Shop.Infrastructure.Sqlite.Db.csproj",
               "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj",
               "RelativeDocumentMoniker": "source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj",
               "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj",
               "RelativeToolTip": "source\\HM.Shop.Infrastructure.Sqlite.Db\\HM.Shop.Infrastructure.Sqlite.Db.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-21T12:53:27.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T12:53:27.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Size.cs",
               "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Domain\\ClothingParameters\\Size.cs",
               "RelativeDocumentMoniker": "source\\HM.Shop.Domain\\ClothingParameters\\Size.cs",
               "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Domain\\ClothingParameters\\Size.cs",
               "RelativeToolTip": "source\\HM.Shop.Domain\\ClothingParameters\\Size.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:49:33.639Z"
+              "WhenOpened": "2024-04-21T12:49:33.639Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Color.cs",
               "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Domain\\ClothingParameters\\Color.cs",
               "RelativeDocumentMoniker": "source\\HM.Shop.Domain\\ClothingParameters\\Color.cs",
               "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Domain\\ClothingParameters\\Color.cs",
               "RelativeToolTip": "source\\HM.Shop.Domain\\ClothingParameters\\Color.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:49:16.935Z"
+              "WhenOpened": "2024-04-21T12:49:16.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Skirt.cs",
               "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Domain\\Skirts\\Skirt.cs",
               "RelativeDocumentMoniker": "source\\HM.Shop.Domain\\Skirts\\Skirt.cs",
               "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Domain\\Skirts\\Skirt.cs",
               "RelativeToolTip": "source\\HM.Shop.Domain\\Skirts\\Skirt.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:47:58.347Z"
+              "WhenOpened": "2024-04-21T12:47:58.347Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "TShirt.cs",
-              "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Domain\\TShirts\\TShirt.cs",
-              "RelativeDocumentMoniker": "source\\HM.Shop.Domain\\TShirts\\TShirt.cs",
-              "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Domain\\TShirts\\TShirt.cs",
-              "RelativeToolTip": "source\\HM.Shop.Domain\\TShirts\\TShirt.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Domain\\Shirts\\TShirt.cs",
+              "RelativeDocumentMoniker": "source\\HM.Shop.Domain\\Shirts\\TShirt.cs",
+              "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Domain\\Shirts\\TShirt.cs",
+              "RelativeToolTip": "source\\HM.Shop.Domain\\Shirts\\TShirt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:47:48.558Z"
+              "WhenOpened": "2024-04-21T12:47:48.558Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Api\\Program.cs",
               "RelativeDocumentMoniker": "source\\HM.Shop.Api\\Program.cs",
               "ToolTip": "C:\\p\\HM.Shop\\source\\HM.Shop.Api\\Program.cs",
               "RelativeToolTip": "source\\HM.Shop.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T12:43:22.015Z"
+              "WhenOpened": "2024-04-21T12:43:22.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\p\\HM.Shop\\source\\HM.Shop.Api\\appsettings.json",
               "RelativeDocumentMoniker": "source\\HM.Shop.Api\\appsettings.json",

@@ -1,19 +1,102 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
+# Binaries
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# NuGet packages
+*.nuget.cache/
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
 [Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
 
-# Other files and folders
-.settings/
+# Visual Studio code files
+.vscode/
 
+# Rider files
+.idea/
+*.sln.iml
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Resharper files
+_ReSharper*/
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.userprefs
+*.suo
+*.cache
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ilk
+*.mdf
+*.ldf
+*.bak
+*.cache
+*.log
+*.htm
+*.html
+*.xml
+*.jar
+*.zip
+*.7z
+*.rar
+*.gz
+*.tar
+*.bak
+*.ods
+*.xps
+*.ods
+*.vsix
+*.sqlite
+*.sql
+
+# Mac OS files
+.DS_Store
+
+# Linux temporary files
+*~
+
+# .NET Core
+project.lock.json
+.project.json
+*.obj
+*.dll
+*.exe
+*.pdb
+*.user
+*.iobj
+*.ipdb
+*.bak
+*.cache
+*.dll.config.user
+
+# .NET Core with Visual Studio Code
+.vscode/
+
+# Build Folders (you can keep bin and obj if you'd like to)
+[Bb]in/
+[Oo]bj/

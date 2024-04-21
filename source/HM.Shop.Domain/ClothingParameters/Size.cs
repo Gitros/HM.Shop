@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace HM.Shop.Domain.ClothingParameters;
 
-namespace HM.Shop.Domain.ClothingParameters;
-
-internal class Size
+public class Size
 {
+    public Guid Id { get; set; }
+    public required string Name { get; set; }
 }

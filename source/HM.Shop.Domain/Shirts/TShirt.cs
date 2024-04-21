@@ -1,8 +1,8 @@
 ﻿using HM.Shop.Domain.ClothingParameters;
 
-namespace HM.Shop.Domain.Skirts;
+namespace HM.Shop.Domain.Shirts;
 
-public class Skirt
+public class TShirt
 {
     public Guid Id { get; set; }
     public required string Name { get; set; }

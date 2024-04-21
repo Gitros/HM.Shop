@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace HM.Shop.Domain.ClothingParameters;
 
-namespace HM.Shop.Domain.ClothingParameters;
-
-internal class Color
+public class Color
 {
+    public Guid Id { get; set; }
+    public required string Name { get; set; }
+    public required string RGBValue { get; set; }
 }
